@@ -65,9 +65,15 @@ sns.heatmap(df.corr(),annot=True)
 
 ![15](https://user-images.githubusercontent.com/94980741/163091371-4fd7f16c-326a-4b10-88c3-6453cf48196a.jpg)
 
+## CHECKING THE MISSING VALUES IN THE DATASET :
+
 ![3](https://user-images.githubusercontent.com/94980741/163091424-4eaca048-d796-428e-938c-cb73c07a90c5.png)
 
+## Values count:
+
 ![4](https://user-images.githubusercontent.com/94980741/163091444-ba813571-cbf5-4e24-9a61-7db70d9b957f.png)
+
+## PLOTTING GRAPHS FOR VARIOUS DATASETS :
 
 ![5](https://user-images.githubusercontent.com/94980741/163091475-88c80f1d-d0f7-4fe8-bbc1-feb275e7bbc7.jpg)
 
@@ -83,9 +89,13 @@ sns.heatmap(df.corr(),annot=True)
 
 ![11](https://user-images.githubusercontent.com/94980741/163091655-11578afa-8a1b-4f55-9e75-604fe3beef0d.jpg)
 
-![11](https://user-images.githubusercontent.com/94980741/163091686-5fac6a5c-0aa3-4e22-a8aa-c0557fc3b134.jpg)
+![14](https://user-images.githubusercontent.com/94980741/163092018-080bb4e9-1fac-4557-9586-6224ee320fc1.jpg)
+
+## CORRELATION:
 
 ![12](https://user-images.githubusercontent.com/94980741/163091734-2b35776e-2acd-4439-a030-374c8f930458.jpg)
+
+## Heatmap:
 
 ![13](https://user-images.githubusercontent.com/94980741/163091755-3d5bb4c0-a5b2-4208-9ea6-320c655052f1.jpg)
 
