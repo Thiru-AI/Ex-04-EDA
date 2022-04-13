@@ -1,11 +1,11 @@
-## Ex-04-EDA
-### AIM:
+# Ex-04-EDA
+# AIM:
 To perform EDA on the given data set.
 
-### EXPLANATION:
+# EXPLANATION:
 The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
 
-### ALGORITHM:
+# ALGORITHM:
 ### STEP 1:
 Import the required packages(pandas,numpy,seaborn).
 
